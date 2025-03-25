@@ -1,7 +1,5 @@
 # Hypixel Skyblock Mining Mod
 
-!Hypixel Skyblock Mining Mod
-
 ## 🔥 About This Mod
 
 This mod will simplify your mining experience in **Hypixel Skyblock**.
