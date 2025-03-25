@@ -15,7 +15,7 @@ This mod will simplify your mining experience in **Hypixel Skyblock**.
 
 ## 🔧 Installation
 1. Download and install **Forge 1.8.9**.
-2. Download the mod `.jar` file.
+2. Download the mod and fix `.jar` file.
 3. Move the mod file to your `mods` folder.
 4. Launch Minecraft and enjoy!
 
