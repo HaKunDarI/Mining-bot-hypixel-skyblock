@@ -1,6 +1,6 @@
 # Hypixel Skyblock Mining Mod
 
-![Hypixel Skyblock Mining Mod](https://via.placeholder.com/1000x300?text=Hypixel+Skyblock+Mining+Mod)
+!Hypixel Skyblock Mining Mod
 
 ## 🔥 About This Mod
 
